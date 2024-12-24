@@ -10,3 +10,10 @@ hey there is a message below for you guys
 ```javascript
 let msg = "hello github"
 ```
+
+and here is the task list for me to finish this markdown chapter
+
+- [x] Add headers
+- [x] Add image
+- [x] Add code example
+- [x] Add tasklist
